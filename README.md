@@ -22,7 +22,6 @@ I enjoy working with a variety of technologies and tools, including:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" title="VsCode" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40" />
