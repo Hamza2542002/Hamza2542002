@@ -1,6 +1,6 @@
 # Hey, I'm Hamza Mosaad 👋
 
-I'm a passionate Software Engineer with a strong focus on Flutter Development.
+I'm a passionate Software Engineer with a strong focus on Front-end Development.
 
 ## 🚀 About Me
 
