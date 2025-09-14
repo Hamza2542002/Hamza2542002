@@ -30,6 +30,14 @@ I enjoy working with a variety of technologies and tools, including:
 
 
 </div>
+## 📌 Front-end Projects  
+
+- 🍕 **[Fast React Pizza](https://github.com/Hamza2542002/fast-react-pizza)** – Food delivery app with **React + Redux**, deployed on Netlify.  
+- ☁️ **[Weather App](https://github.com/Hamza2542002/weather-website)** – Responsive Angular app consuming weather APIs.  
+- 🏨 **[The Wild Oasis](https://github.com/Hamza2542002/the-wild-oasis-hotel)** – Hotel booking dashboard built with React Router & Context API.  
+- 🎬 **[usePopcorn](https://github.com/Hamza2542002/usePopcorn)** – React movie search app using OMDB API.  
+- 📚 **[E-Learning App](https://github.com/Hamza2542002/e-learning-education)** – Online education platform with React.  
+- 🎨 **[Tour App](https://github.com/Hamza2542002/tour-app)** – Travel booking web app with React.  
 
 Feel free to check out my GitHub repositories for more projects and contributions.
 
