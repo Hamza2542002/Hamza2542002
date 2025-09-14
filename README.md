@@ -37,7 +37,13 @@ I enjoy working with a variety of technologies and tools, including:
 - 🏨 **[The Wild Oasis](https://github.com/Hamza2542002/the-wild-oasis-hotel)** – Hotel booking dashboard built with React Router & Context API.  
 - 🎬 **[usePopcorn](https://github.com/Hamza2542002/usePopcorn)** – React movie search app using OMDB API.  
 - 📚 **[E-Learning App](https://github.com/Hamza2542002/e-learning-education)** – Online education platform with React.  
-- 🎨 **[Tour App](https://github.com/Hamza2542002/tour-app)** – Travel booking web app with React.  
+- 🎨 **[Tour App](https://github.com/Hamza2542002/tour-app)** – Travel booking web app with React.
+
+### ⚙️ Back-End / Full-Stack Projects  
+- 🏥 **[Afietak Medical App](https://github.com/Hamza2542002/afietak)** – Full-stack **.NET Core + EF Core** Graduation Project.  
+- 📦 **[E-Commerce API](https://github.com/Hamza2542002/talapat.git)** – Scalable **.NET Core Web API** applying **Clean Architecture** and integrating with SQL Server.  
+- 💬 **[Chat Room App](https://github.com/Hamza2542002/KindHeart.git)** –  Developed APIs for managing donors and donation campaigns.
+
 
 Feel free to check out my GitHub repositories for more projects and contributions.
 
