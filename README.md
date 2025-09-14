@@ -17,25 +17,25 @@
 I enjoy working with a variety of technologies and tools, including:
 
 <div align="center">
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" title="VsCode" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="Blazor" title="Blazor" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40" />
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 
 </div>
 
