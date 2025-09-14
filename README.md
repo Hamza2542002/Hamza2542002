@@ -4,14 +4,6 @@
 💻 Front-End & ASP.NET Core Developer | Skilled in React, Angular, .NET 6/7, Blazor, EF Core, and SQL Server  
 🚀 Passionate about building scalable web apps with clean architecture and great UI/UX  
 
-
-## 🚀 About Me
-
-- 🌱 Currently learning and experimenting with React, while improving my expertise in scalable Web applications architecture.
-- 💼 Working as a Software Engineer with a focus on delivering seamless user experiences.
-- 🎯 Passionate about building clean, efficient, and scalable applications.
-- 📚 Always eager to learn new technologies, currently exploring E-Commerce Application and improving my skills with React.
-
 ## 🔧 Technologies & Tools
 
 I enjoy working with a variety of technologies and tools, including:
