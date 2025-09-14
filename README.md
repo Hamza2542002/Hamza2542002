@@ -1,6 +1,9 @@
 # Hey, I'm Hamza Mosaad 👋
 
-I'm a passionate Software Engineer with a strong focus on Front-end Development.
+👋 Hi, I'm Hamza Mosaad  
+💻 Front-End & ASP.NET Core Developer | Skilled in React, Angular, .NET 6/7, Blazor, EF Core, and SQL Server  
+🚀 Passionate about building scalable web apps with clean architecture and great UI/UX  
+
 
 ## 🚀 About Me
 
@@ -26,6 +29,14 @@ I enjoy working with a variety of technologies and tools, including:
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40" />
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 </div>
 
 Feel free to check out my GitHub repositories for more projects and contributions.
