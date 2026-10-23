@@ -1,124 +1,140 @@
-# Hey, I'm Hamza Mosaad 👋
+# Hi, I'm Hamza Mosaad 👋
 
-👋 Hi, I'm Hamza Mosaad  
-💻 Front-End & ASP.NET Core Developer | Skilled in React, Angular, .NET 6/7, Blazor, EF Core, and SQL Server  
-🚀 Passionate about building scalable web apps with clean architecture and great UI/UX  
+### Business Automation & .NET Backend Developer
 
-## 🔧 Technologies & Tools
+I'm a Computer Engineering graduate and software developer based in Cairo, Egypt. I work on enterprise business automation solutions using **IBM Business Automation Workflow (BAW)** and build backend applications using **C#, ASP.NET Core, and SQL Server**.
 
-I enjoy working with a variety of technologies and tools, including:
+I'm interested in developing reliable REST APIs, secure authentication systems, database-driven applications, and maintainable software architectures. I'm also open to **remote part-time opportunities and freelance projects** in .NET backend development.
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="Blazor" title="Blazor" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40" />
+- 💼 Current role: Junior Business Automation Specialist
+- 🏦 Enterprise automation: IBM BAW, workflow analysis, and business process automation
+- ⚙️ Backend development: C#, ASP.NET Core, EF Core, and REST APIs
+- 🏗️ Architecture: Clean Architecture, Onion Architecture, SOLID, and Dependency Injection
+- 🌍 Location: Cairo, Egypt
+- 🎯 Currently focused on: Strengthening my backend portfolio and contributing to real-world software projects
 
+---
 
-</div>
-## 📌 Front-end Projects  
+## 🛠️ Technical Skills
 
-- 🍕 **[Fast React Pizza](https://github.com/Hamza2542002/fast-react-pizza)** – Food delivery app with **React + Redux**, deployed on Netlify.  
-- ☁️ **[Weather App](https://github.com/Hamza2542002/weather-website)** – Responsive Angular app consuming weather APIs.  
-- 🏨 **[The Wild Oasis](https://github.com/Hamza2542002/the-wild-oasis-hotel)** – Hotel booking dashboard built with React Router & Context API.  
-- 🎬 **[usePopcorn](https://github.com/Hamza2542002/usePopcorn)** – React movie search app using OMDB API.  
-- 📚 **[E-Learning App](https://github.com/Hamza2542002/e-learning-education)** – Online education platform with React.  
-- 🎨 **[Tour App](https://github.com/Hamza2542002/tour-app)** – Travel booking web app with React.
+**Backend Development**
+- C#, ASP.NET Core, ASP.NET MVC, RESTful APIs
+- Entity Framework Core, LINQ
+- Authentication and authorization with JWT and ASP.NET Identity
+- Dependency Injection, middleware, validation, and error handling
 
-### ⚙️ Back-End / Full-Stack Projects  
-- 🏥 **[Afietak Medical App](https://github.com/Hamza2542002/afietak)** – Full-stack **.NET Core + EF Core** Graduation Project.  
-- 📦 **[E-Commerce API](https://github.com/Hamza2542002/talapat.git)** – Scalable **.NET Core Web API** applying **Clean Architecture** and integrating with SQL Server.  
-- 💬 **[Chat Room App](https://github.com/Hamza2542002/KindHeart.git)** –  Developed APIs for managing donors and donation campaigns.
+**Databases**
+- Microsoft SQL Server
+- MySQL
 
+**Architecture & Engineering Practices**
+- Clean Architecture and Onion Architecture
+- Object-Oriented Programming (OOP) and SOLID principles
+- Repository Pattern
+- Agile/Scrum and Git-based workflows
 
-Feel free to check out my GitHub repositories for more projects and contributions.
+**Enterprise Automation**
+- IBM Business Automation Workflow (BAW)
+- Business process analysis and workflow automation
+- Business requirements documentation and backend integrations
 
-## 📊 GitHub Stats
+**Frontend Development**
+- React, Angular, JavaScript, HTML, CSS
+- Tailwind CSS, Bootstrap, Blazor
 
-<!-- GRS (Light Mode) -->
-<a href="https://github.com/qwerty541#gh-light-mode-only">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api?username=Hamza2542002&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
-            alt="My Github stats"
-            height="370"
-          />
-      </td>
-      <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Hamza2542002&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
-            alt="My Language stats"
-            width="280"
-          />
-      </td>
-    </tr>
-  </table>
-</a>
+**Tools & Integrations**
+- Git and GitHub
+- Visual Studio and VS Code
+- Swagger and Postman
+- Paymob, Stripe, Cloudinary
 
-<!-- GRS (Dark Mode) -->
-<a href="https://github.com/qwerty541#gh-dark-mode-only">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0;">
-        <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api?username=Hamza2542002&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
-          alt="My Github stats"
-          height="370"
-        />
-      </td>
-      <td style="border: 0;">
-        <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Hamza2542002&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
-          alt="My Language stats"
-          width="280"
-        />
-      </td>
-    </tr>
-  </table>
-</a>
+---
 
-<!-- Streal stats (Light mode) -->
-<div align="center">
-  <a href="https://github.com/qwerty541#gh-light-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Hamza2542002&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
+## 🚀 Featured Projects
 
-<!-- Streal stats (Dark mode) -->
-<div align="center">
-  <a href="https://github.com/qwerty541#gh-dark-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Hamza2542002&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
+### 🏥 Afietak — Medical Management Platform
+
+A medical platform designed to connect patients, doctors, and pharmacies through a unified application.
+
+- Developed REST APIs using ASP.NET Core and Entity Framework Core.
+- Implemented JWT authentication and role-based authorization.
+- Applied Clean Architecture, dependency injection, and global exception-handling middleware.
+- Integrated Paymob for payments, Cloudinary for media storage, and email services.
+
+**Tech stack:** ASP.NET Core, C#, EF Core, SQL Server, JWT, Paymob, Cloudinary
+
+🔗 [View Repository](https://github.com/Hamza2542002/afietak)
+
+### ❤️ KindHeart — Donation Platform
+
+A donation application backend designed to support donor and campaign management.
+
+- Built API functionality for donation and campaign workflows.
+- Used ASP.NET Core Identity, JWT authentication, and refresh-token handling.
+- Applied MediatR, FluentValidation, and a layered architecture.
+- Integrated payment processing and supporting email services.
+
+**Tech stack:** .NET, C#, SQL Server, ASP.NET Core Identity, MediatR, FluentValidation
+
+🔗 [View Repository](https://github.com/Hamza2542002/KindHeart)
+
+### 🛒 Talabat Clone — E-commerce API
+
+A backend API for an e-commerce application with product, cart, and order management.
+
+- Developed REST endpoints for core e-commerce operations.
+- Implemented authentication, role-based authorization, and Stripe payment integration.
+- Applied Onion Architecture, Repository Pattern, and Dependency Injection.
+
+**Tech stack:** ASP.NET Core, C#, EF Core, SQL Server, JWT, Stripe
+
+🔗 [View Repository](https://github.com/Hamza2542002/talapat)
+
+### 🍕 Fast React Pizza — Frontend Project
+
+A food-ordering application demonstrating React development and client-side state management.
+
+- Built the user interface using React.
+- Used Redux for state management.
+- Deployed the application on Netlify.
+
+**Tech stack:** React, JavaScript, Redux
+
+🔗 [View Repository](https://github.com/Hamza2542002/fast-react-pizza)
+
+---
+
+## 📚 Additional Projects
+
+- [The Wild Oasis](https://github.com/Hamza2542002/the-wild-oasis-hotel) — Hotel management dashboard built with React.
+- [Weather App](https://github.com/Hamza2542002/weather-website) — Angular application integrating weather APIs.
+- [E-learning App](https://github.com/Hamza2542002/e-learning-education) — Frontend project for an online learning platform.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering in Computer Engineering**  
+Tanta University, Egypt
+
+- Graduation score: 88.8% — Excellent
+- Ranked 4th in the department
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats-steel-omega.vercel.app/api?username=Hamza2542002&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Hamza2542002&layout=compact&hide_border=true)
+
+---
 
 ## 📫 Let's Connect
 
-I'm always excited to connect with fellow Front-end developers and tech enthusiasts. You can reach me on:
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamza-mosaad/)
+- 💻 [GitHub](https://github.com/Hamza2542002)
 
-- [LinkedIn](https://www.linkedin.com/in/hamza-mosaad/)
+I'm open to remote part-time .NET backend opportunities, freelance projects, and collaboration on meaningful software solutions.
 
-Feel free to drop me a message or connect with me on any of these platforms.
-
-Thank you for visiting my GitHub profile! 😊
+Thanks for visiting my profile! 🚀
