@@ -63,7 +63,7 @@ A medical platform designed to connect patients, doctors, and pharmacies through
 
 **Tech stack:** ASP.NET Core, C#, EF Core, SQL Server, JWT, Paymob, Cloudinary
 
-🔗 [View Repository](https://github.com/Hamza2542002/afietak)
+🔗 [View Repository](https://github.com/Graduation-Project-FETU-2024-2025/Backend-APP)
 
 ### ❤️ KindHeart — Donation Platform
 
